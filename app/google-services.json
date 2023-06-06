@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349114463619",
+    "project_id": "sosialmadia-be42e",
+    "storage_bucket": "sosialmadia-be42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349114463619:android:26461e4e8c1a374526b2b6",
+        "android_client_info": {
+          "package_name": "com.hasanyilmaz.sosialmadia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349114463619-s5ki4769m1s3fpmcfm8inr4sirel8jtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16fezKB1w3AK9d-hPaxhRYngE3EjPOUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349114463619-s5ki4769m1s3fpmcfm8inr4sirel8jtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
